@@ -1,7 +1,8 @@
 # BorgerBot Burger Restaurant Sim
 **Team Members**: Tenzin Gyaltsen, Jack Keller, Emydius Montes, Arthur Motoyama
+<img width="879" alt="groupProject" src="https://user-images.githubusercontent.com/40735388/149462304-db754550-03e4-4565-9fca-05dcdfc08d46.png">
 
-![alt text](https://github.com/mac-comp128-f21/128-project-burger-bois/blob/5788024d6ecab1af6722aa30bc16a70568a9d283/res/groupProject.png)
+
 # Inspiration and goal
 - Loosely based off of the Papa’s Burgeria game series, we wanted to make a burger restaurant order simulation/game. Including a drink, burger and side option, our game focused on burger creation. 
 
@@ -9,10 +10,12 @@
 
 
 # User Interface 
-![alt text](https://github.com/mac-comp128-f21/128-project-burger-bois/blob/6dc57476e879f4c75a684cdc57156bcfed7ed0a8/res/uiDiagram.png)
+<img width="760" alt="uiDiagram" src="https://user-images.githubusercontent.com/40735388/149462331-aa459425-2e75-4477-b77a-b294317a4d37.png">
+
 
 # Class Structures
-![alt text](https://github.com/mac-comp128-f21/128-project-burger-bois/blob/8a066681806ae5900bdca34494acf67e636505bd/res/classDiagram.png)
+<img width="825" alt="classDiagram" src="https://user-images.githubusercontent.com/40735388/149462366-3a44b356-b738-4987-b27e-672fe333641e.png">
+
 
 
 # Data Structures
